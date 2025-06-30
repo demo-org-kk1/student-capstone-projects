@@ -1,0 +1,10 @@
+jenkins:
+  url: http://jenkins.students.com
+  username: admin
+  password: admin123
+  api_token: 1234567890abcdef1234567890abcdef12
+
+docker:
+  registry: docker.io
+  username: student_user
+  password: MyDockerPassword123!
