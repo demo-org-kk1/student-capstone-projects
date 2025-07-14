@@ -1,5 +1,7 @@
 # Student Capstone Projects
 
+**Scorecard Link**: [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/demo-org-kk1/student-capstone-projects/badge)](https://scorecard.dev/viewer/?uri=github.com/demo-org-kk1/student-capstone-projects)
+
 ⚠️ **Demo Repository** - Student work with common security vulnerabilities
 
 ## Featured Student Projects
